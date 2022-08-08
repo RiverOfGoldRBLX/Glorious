@@ -1,5 +1,6 @@
 # Glorious
-Roblox W.I.P Script Executor (Made with WeAreDevsAPI)
+Roblox W.I.P Script Executor
+(Made with WeAreDevsAPI)
 Made by RiverOfGold  
 (Dasupabebe was here too)  
 (S43F was here)
