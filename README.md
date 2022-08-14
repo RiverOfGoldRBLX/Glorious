@@ -1,9 +1,5 @@
-# ATTENTION  
-I've had some coding problems and lost the files for the newest release.  
-The newest release will still have all the features but for future releases  
-I might have to rewrite some code and it will take longer.
 
-# Glorious
+# Glorious  
 Roblox W.I.P Script Executor (Made with WeAreDevsAPI)  
 Made by RiverOfGold  
 (Dasupabebe was here too)  
