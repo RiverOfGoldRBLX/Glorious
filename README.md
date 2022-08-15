@@ -13,4 +13,4 @@ turn off your antivirus or whitelist the files in the folder
 (For info on why it gets flagged: https://wearedevs.net/forum/t/23014)
 4. Do a little bit of trolling ;)
 
-#Next update wont be for out for a while cause I dont have much motivation right now.
+# Next update wont be for out for a while cause I dont have much motivation right now.
